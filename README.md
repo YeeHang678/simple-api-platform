@@ -24,7 +24,7 @@ API接口调用平台，帮助企业、个人统一开放接口，减少前后�
 - Dubbo (RPC)
 - Nacos(注册中心)
 - Spring Cloud Gateway(网关、限流、日志实现)
-- Redis(数据缓存)
+- Redis(常用数据缓存)
 
 目录结构：
 
